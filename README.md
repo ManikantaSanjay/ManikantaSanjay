@@ -1,12 +1,13 @@
 ## Hi there 👋 I'm Manikanta Sanjay Veera
 
-* 🔭 I’m currently working on **Time Series Forecasting**
-* 🌱 I’m currently learning **Program Synthesis** and **Deep Reinforcement Learning for Trading**
+
+* 🔭 I’m currently a grad student at SJSU pursuing Masters in Computer Science.
+* 🌱 I’m currently working on **Program Synthesis** and **Deep Reinforcement Learning for Trading**.
 * 👯 I’m looking to collaborate on **Stock Price Prediction using Time Series Forecasting , RL Trading Bots** and anything **AI**.
 * 📝 I consistently write and publish my research in journals such as IEEE, Springer, and others. My [Google Scholar](https://scholar.google.com/citations?user=1wn-4kkAAAAJ&hl=en ) and [ResearchGate](https://www.researchgate.net/profile/V-Manikanta-Sanjay)
 * 💬 Ask me about **NLP, AI and Reinforcement Learning**
 * 📫 How to reach me: [manikantasanjay1999@gmail.com](manikantasanjay1999@gmail.com)
-* 📄 Check out my resume [here](https://drive.google.com/file/d/1yR_lvw6UPLZcNdTlaVJdPS697ypLzBiN/view?usp=sharing)
+* 📄 Check out my resume [here](https://drive.google.com/file/d/13C8WyffQWVjzLapxLTbF3y2sc7flF5cw/view?usp=sharing)
 * ⚡ Fun fact: I love playing **Cricket** and board games especially **Chess**
 
 ### Connect with Me:
@@ -21,7 +22,6 @@
 ![Manikanta Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikantaSanjay&show_icons=true&theme=dark)
 
 ## 🧰 Languages and Tools:
-<p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" height="40" style="vertical-align:top; margin:4px">
