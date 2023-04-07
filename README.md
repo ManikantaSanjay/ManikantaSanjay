@@ -42,7 +42,6 @@
 ![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;
-![Java]
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikantaSanjay&layout=compact)](https://github.com/ManikantaSanjay/github-readme-stats)
