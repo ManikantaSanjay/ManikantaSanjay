@@ -1,14 +1,15 @@
-## Hi there 👋 I'm Manikanta Sanjay Veera
+## Hi there 👋 My name is Manikanta Sanjay Veera. Welcome to my profile 😃
 
 
-* 🔭 I’m currently a grad student at SJSU pursuing Masters in Computer Science.
-* 🌱 I’m currently working on **Program Synthesis** and **Deep Reinforcement Learning for Trading**.
-* 👯 I’m looking to collaborate on **Stock Price Prediction using Time Series Forecasting , RL Trading Bots** and anything **AI**.
-* 📝 I consistently write and publish my research in journals such as IEEE, Springer, and others. My [Google Scholar](https://scholar.google.com/citations?user=1wn-4kkAAAAJ&hl=en ) and [ResearchGate](https://www.researchgate.net/profile/V-Manikanta-Sanjay)
-* 💬 Ask me about **NLP, AI and Reinforcement Learning**
-* 📫 How to reach me: [manikantasanjay1999@gmail.com](manikantasanjay1999@gmail.com)
+* 🔭 I’m currently a grad student at San Jose State University pursuing Masters in Computer Science.
+* 🌱 I’m currently working on developing **Decentralised applications using Ethereum and following ERC-721 for NFT Space**.
+* 👯 I’m looking to collaborate on anything related to **Blockchain and Cryptocurrencies**.
+* 📝 Look into my research publications in journals such as IEEE, Springer, and others. Here ➡️ [Google Scholar](https://scholar.google.com/citations?user=1wn-4kkAAAAJ&hl=en ) and [ResearchGate](https://www.researchgate.net/profile/V-Manikanta-Sanjay)
+* 💬 Ask me about **NLP, AI and Blockchain**
+* 📫 How to reach me: [manikantasanjay.veera@sjsu.edu](manikantasanjay.veera@sjsu.edu)
 * 📄 Check out my resume [here](https://drive.google.com/file/d/13C8WyffQWVjzLapxLTbF3y2sc7flF5cw/view?usp=sharing)
 * ⚡ Fun fact: I love playing **Cricket** and board games especially **Chess**
+* 😄 Pronouns: He/Him/His
 
 ### Connect with Me:
 
@@ -32,7 +33,6 @@
 ![sql](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![docker](https://aleen42.github.io/badges/src/docker.svg)
-![git](https://aleen42.github.io/badges/src/github.svg)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -42,7 +42,8 @@
 ![Javascript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;
-
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikantaSanjay&layout=compact)](https://github.com/ManikantaSanjay/github-readme-stats)
 
