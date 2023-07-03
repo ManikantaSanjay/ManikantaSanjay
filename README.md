@@ -1,35 +1,35 @@
-## Hi there 👋 I'm Manikanta Sanjay Veera !
+![image](https://github.com/ManikantaSanjay/ManikantaSanjay/assets/53619729/806fba72-12fd-45a1-9bc0-634bec14c27e)## Hi there 👋 I'm Manikanta Sanjay Veera !
 ![Profile-Visitors](https://visitor-badge.laobi.icu/badge?page_id=ManikantaSanjay.ManikantaSanjay)
 
 
 * 🔭 <i>Currently</i> - MSCS student at San Jose State University.
 * ℹ️<i>Previously</i> - Programmer Analyst / Software Engineer - Machine Learning Team at Cognizant. 
 * 💬 Ask me about <i>**NLP, Deep RL, AI, Blockchain**</i> or anything related to <i>**Software Development**</i>
-* 📫 Reach me @ [manikantasanjay1999@gmail.com](manikantasanjay1999@gmail.com)
 * ⚡ Fun fact: I love playing <i>**Cricket**, **Chess**,</i> enjoy <i>**Music**</i> 🎹 and explore <i>**Nature**</i> 🏞️. I also like to do <i>**Post-match Analysis 🤔 of Sports**</i>.
 
 ## 📝 Research
 * [Google Scholar](https://scholar.google.com/citations?user=1wn-4kkAAAAJ&hl=en )
 * [ResearchGate](https://www.researchgate.net/profile/V-Manikanta-Sanjay)
 
-## 💻 Currently working on
+## 💻 Currently Working on
 * CS 168 - Blockchain and Cryptocurrencies 
 * CS 257 - Database System Principles
 * CS 272 - Reinforcement Learning
 
-## 📫 Connect with Me:
+## 📫 Connect with Me
 
 <p align="left">
 <a href="https://twitter.com/manikantasanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikantasanjay" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manikanta-sanjay-veera-a24736b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-reddy-79b2781b7" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/manikantasanjayv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manikantasanjay" height="30" width="40" /></a>
 <a href="https://discord.com/users/601091143991689216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/601091143991689216" height="30" width="40" /></a>
+<a href="manikantasanjay1999@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="manikantasanjay1999@gmail.com" height="30" width="40" /></a>
 </p>
 
 
 ![Manikanta Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikantaSanjay&show_icons=true&theme=dark)
 
-## 🧰 Languages and Tools:
+## 🧰 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![azure](https://img.shields.io/badge/AZURE%20-%23FF9900.svg?&style=for-the-badge&logo=azure&logoColor=white)&nbsp;
@@ -51,6 +51,8 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+
+## 🧐 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikantaSanjay&layout=compact)](https://github.com/ManikantaSanjay/github-readme-stats)
 
