@@ -23,7 +23,6 @@
 <a href="https://www.linkedin.com/in/manikanta-sanjay-veera-a24736b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranay-reddy-79b2781b7" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/manikantasanjayv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manikantasanjay" height="30" width="40" /></a>
 <a href="https://discord.com/users/601091143991689216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/601091143991689216" height="30" width="40" /></a>
-<a href="manikantasanjay1999@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="manikantasanjay1999@gmail.com" height="30" width="40" /></a>
 </p>
 
 
