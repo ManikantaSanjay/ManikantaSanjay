@@ -1,17 +1,23 @@
-## Hi there 👋 My name is Manikanta Sanjay Veera. Welcome to my profile 😃
+## Hi there 👋 I'm Manikanta Sanjay Veera !
+![Profile-Visitors](https://visitor-badge.laobi.icu/badge?page_id=ManikantaSanjay.ManikantaSanjay)
 
 
-* 🔭 I’m currently a grad student at San Jose State University pursuing Masters in Computer Science.
-* 🌱 I’m currently working on developing **Decentralised applications using Ethereum and following ERC-721 for NFT Space**.
-* 👯 I’m looking to collaborate on anything related to **Blockchain and Cryptocurrencies**.
-* 📝 Look into my research publications in journals such as IEEE, Springer, and others. Here ➡️ [Google Scholar](https://scholar.google.com/citations?user=1wn-4kkAAAAJ&hl=en ) and [ResearchGate](https://www.researchgate.net/profile/V-Manikanta-Sanjay)
-* 💬 Ask me about **NLP, AI and Blockchain**
-* 📫 How to reach me: [manikantasanjay.veera@sjsu.edu](manikantasanjay.veera@sjsu.edu)
-* 📄 Check out my resume [here](https://drive.google.com/file/d/13C8WyffQWVjzLapxLTbF3y2sc7flF5cw/view?usp=sharing)
-* ⚡ Fun fact: I love playing **Cricket** and board games especially **Chess**
-* 😄 Pronouns: He/Him/His
+* 🔭 <i>Currently</i> - MSCS student at San Jose State University.
+* ℹ️<i>Previously</i> - Programmer Analyst / Software Engineer - Machine Learning Team at Cognizant. 
+* 💬 Ask me about <i>**NLP, Deep RL, AI, Blockchain**</i> or anything related to <i>**Software Development**</i>
+* 📫 Reach me @ [manikantasanjay1999@gmail.com](manikantasanjay1999@gmail.com)
+* ⚡ Fun fact: I love playing <i>**Cricket**, **Chess**,</i> enjoy <i>**Music**</i> 🎹 and explore <i>**Nature**</i> 🏞️. I also like to do <i>**Post-match Analysis 🤔 of Sports**</i>.
 
-### Connect with Me:
+## 📝 Research
+* [Google Scholar](https://scholar.google.com/citations?user=1wn-4kkAAAAJ&hl=en )
+* [ResearchGate](https://www.researchgate.net/profile/V-Manikanta-Sanjay)
+
+## 💻 Currently working on
+* CS 168 - Blockchain and Cryptocurrencies 
+* CS 257 - Database System Principles
+* CS 272 - Reinforcement Learning
+
+## 📫 Connect with Me:
 
 <p align="left">
 <a href="https://twitter.com/manikantasanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikantasanjay" height="30" width="40" /></a>
@@ -20,6 +26,7 @@
 <a href="https://discord.com/users/601091143991689216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/601091143991689216" height="30" width="40" /></a>
 </p>
 
+
 ![Manikanta Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikantaSanjay&show_icons=true&theme=dark)
 
 ## 🧰 Languages and Tools:
@@ -27,6 +34,7 @@
 ![aws](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![azure](https://img.shields.io/badge/AZURE%20-%23FF9900.svg?&style=for-the-badge&logo=azure&logoColor=white)&nbsp;
 ![TF](https://aleen42.github.io/badges/src/tensorflow.svg)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=whit)&nbsp;
 ![pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![numpy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -43,13 +51,12 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikantaSanjay&layout=compact)](https://github.com/ManikantaSanjay/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManikantaSanjay&" alt="ManikantaSanjay" /></p>
 
-![Profile-Visitors](https://visitor-badge.laobi.icu/badge?page_id=ManikantaSanjay.ManikantaSanjay)
+
 
 <!--
 **ManikantaSanjay/ManikantaSanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
