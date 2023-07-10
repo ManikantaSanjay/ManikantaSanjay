@@ -20,11 +20,11 @@
 ## 📫 Connect with Me
 
 <p align="left">
-<a href="https://twitter.com/manikantasanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikantasanjay" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/manikantasanjayveera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikantasanjayveera" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/manikantasanjayv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manikantasanjay" height="30" width="40" /></a>
-<a href="https://discord.com/users/601091143991689216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/601091143991689216" height="30" width="40" /></a>
-<a href="mailto:manikantasanjay1999@gmail.com" target="blank"><img align="center" src="https://github.com/timche/gmail-desktop/blob/main/media/icon.svg" alt="manikantasanjay1999@gmail.com" height="30" width="40" /></a>
+<a href="https://twitter.com/manikantasanjay" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="manikantasanjay" height="30" width="90" /></a>
+<a href="https://www.linkedin.com/in/manikantasanjayveera/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="manikantasanjayveera" height="30" width="90" /></a>
+<a href="https://www.kaggle.com/manikantasanjayv" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="manikantasanjay" height="30" width="90" /></a>
+<a href="https://discord.com/users/601091143991689216" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.com/users/601091143991689216" height="30" width="90" /></a>
+<a href="mailto:manikantasanjay1999@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="90" /></a>
 </p>
 
 ## 🧰 Languages and Tools
