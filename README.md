@@ -3,7 +3,7 @@
 
 
 * 🔭 <i>Currently</i> - MSCS student at San Jose State University, AI Engineer Intern @ Arkoz.
-* ℹ️<i>Previously</i> - Programmer Analyst / Software Engineer - Machine Learning Team at Cognizant. 
+* ℹ️<i>Previously</i> - Programmer Analyst - AI & Analytics Team at Cognizant. 
 * 💬 Ask me about <i>**NLP, Deep RL, AI, Blockchain**</i> or anything related to <i>**Software Development**</i>
 * ⚡ Fun fact: I love playing <i>**Cricket**, **Chess**,</i> enjoy <i>**Music**</i> 🎹 and explore <i>**Nature**</i> 🏞️. I also like to do <i>**Post-match Analysis 🤔 of Sports**</i>.
 
