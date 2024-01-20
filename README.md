@@ -82,8 +82,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ## 🧐 GitHub Stats
 
-![Manikanta Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikantaSanjay&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManikantaSanjay&layout=compact)](https://github.com/ManikantaSanjay/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManikantaSanjay&" alt="ManikantaSanjay" /></p>
