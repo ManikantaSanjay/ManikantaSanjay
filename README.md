@@ -13,9 +13,8 @@
 * [ResearchGate](https://www.researchgate.net/profile/V-Manikanta-Sanjay)
 
 ## 💻 Currently Working on
-* CS 168 - Blockchain and Cryptocurrencies 
-* CS 257 - Database System Principles
-* CS 272 - Reinforcement Learning
+* CS259 - Advanced Parallel Processing
+* CS298 - Master's Project/Thesis
 
 ## 📫 Connect with Me
 
