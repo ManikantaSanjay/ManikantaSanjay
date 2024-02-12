@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 ## 👋 Hi there. I'm Manikanta Sanjay Veera !
 ![Profile-Visitors](https://visitor-badge.laobi.icu/badge?page_id=ManikantaSanjay.ManikantaSanjay)
 
