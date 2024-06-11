@@ -3,8 +3,8 @@
 ![Profile-Visitors](https://visitor-badge.laobi.icu/badge?page_id=ManikantaSanjay.ManikantaSanjay)
 
 
-* 🔭 <i>Current</i> - Recent MS Computer Science grad student at San Jose State University, Teaching Assistant @ SJSU.
-* ℹ️<i>Previously</i> - MLE Intern @ Cicero LLC - Stealth Startup, AI Engineer Intern @ Arkoz. 
+* 🔭 <i>Current</i> - Recent MS Computer Science grad student at San Jose State University, looking for Data Science and AI/ML opportunities.
+* ℹ️<i>Previously</i> - AI Engineer @ Arkoz. 
 * 💬 Ask me about <i>**NLP, Deep RL, AI, Blockchain**</i> or anything related to <i>**Software Development**</i>
 * ⚡ Fun fact: I love playing <i>**Cricket**, **Chess**,</i> enjoy <i>**Music**</i> 🎹 and explore <i>**Nature**</i> 🏞️. I also like to do <i>**Post-match Analysis 🤔 of Sports**</i>.
 
@@ -13,9 +13,6 @@
 * [Google Scholar](https://scholar.google.com/citations?user=1wn-4kkAAAAJ&hl=en )
 * [ResearchGate](https://www.researchgate.net/profile/V-Manikanta-Sanjay)
 
-## 💻 Currently Working on
-* CS259 - Advanced Parallel Processing
-* CS298 - Master's Project/Thesis
 
 ## 📫 Connect with Me
 
