@@ -3,7 +3,7 @@
 ![Profile-Visitors](https://visitor-badge.laobi.icu/badge?page_id=ManikantaSanjay.ManikantaSanjay)
 
 
-* 🔭 <i>Current</i> - Recent MS Computer Science grad student at San Jose State University, looking for Data Science and AI/ML opportunities.
+* 🔭 <i>Current</i> - Recent MS Computer Science grad student at San Jose State University.
 * ℹ️<i>Previously</i> - AI Engineer @ Arkoz. 
 * 💬 Ask me about <i>**NLP, Deep RL, AI, Blockchain**</i> or anything related to <i>**Software Development**</i>
 * ⚡ Fun fact: I love playing <i>**Cricket**, **Chess**,</i> enjoy <i>**Music**</i> 🎹 and explore <i>**Nature**</i> 🏞️. I also like to do <i>**Post-match Analysis 🤔 of Sports**</i>.
